@@ -1,4 +1,4 @@
-const {add, multiply} = require("/home/onke/Documents/Phindi/my_jasmine_goodies/src/simple_calculator");
+const {add, multiply} = require("../src/simple_calculator");
 
 describe("adding numbers", function(){
     it('should add two numbers', function(){
